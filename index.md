@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名： S-JLuo
+#### 学历：统招本科
+#### 邮箱：1005461837@qq.com
+#### 现居地：广东广州
 
-You can use the [editor on GitHub](https://github.com/S-JLuo/S-JLuo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 求职意向
+#### 意向岗位：前端开发
+#### 意向城市：广州/东莞
+#### 求职类型：校招
+#### 期望薪资：11k-15k
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 相关技能
+- 熟悉HTML & CSS，了解页面布局
 
-### Markdown
+- 熟悉JavaScript，了解AJAX
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 熟悉PS操作，熟悉使用办公软件
 
-```markdown
-Syntax highlighted code block
+- 熟悉基本的数据结构
 
-# Header 1
-## Header 2
-### Header 3
+- 了解Ves.js
 
-- Bulleted
-- List
+- 了解Web安全，了解XSS
 
-1. Numbered
-2. List
+### 学校经历
+#### 专业
+信息与计算科学
+#### 主修课程
+数据结构、计算机网络、操作系统、软件工程、算法设计与分析、离散数学等
+#### 社团工作
+担任校创协宣传部副部长，多次负责海报和传单的制作工作，有动员团队组织活动的经验
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/S-JLuo/S-JLuo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 自我评价
+- 能够快速适应新环境，尽快投入工作
+- 会与同事和睦相处，服从上级领导规定
+- 为人谦虚诚实，严格遵守公司的规章制度，善于听取意见
